@@ -1,8 +1,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Tamilmani%20J%20R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=AWS%20DevOps%20Engineer%20%7C%20CI%2FCD%20%7C%20Docker%20%7C%20Kubernetes%20%7C%20Terraform&descAlignY=62&descSize=16" width="100%"/>
 
 <div align="center">
-  <a href="https://komarev.com/ghpvc/?username=tamilmanijaganathan&color=70a5fd&style=flat-square&label=Profile+Views">
-    <img src="https://komarev.com/ghpvc/?username=tamilmanijaganathan&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
+  <a href="https://komarev.com/ghpvc/?username=tamiljagan26&color=70a5fd&style=flat-square&label=Profile+Views">
+    <img src="https://komarev.com/ghpvc/?username=tamiljagan26&color=70a5fd&style=flat-square&label=Profile+Views" alt="Profile Views"/>
   </a>
 </div>
 
@@ -96,11 +96,11 @@ print(me.motto())
 ## 📊 GitHub Stats
 
 <div align="center">
-  <a href="https://github.com/tamilmanijaganathan">
-    <img height="170" src="https://github-readme-stats.vercel.app/api?username=tamilmanijaganathan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
+  <a href="https://github.com/Tamiljagan26">
+    <img height="170" src="https://github-readme-stats.vercel.app/api?username=tamiljagan26&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&bg_color=0d1117&title_color=70a5fd&icon_color=bf91f3&text_color=c9d1d9&border_radius=10" alt="GitHub Stats"/>
   </a>
   <a href="https://github.com/tamilmanijaganathan">
-    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamilmanijaganathan&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
+    <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tamiljagan26&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=70a5fd&text_color=c9d1d9&langs_count=8&border_radius=10" alt="Top Languages"/>
   </a>
 </div>
 
@@ -117,7 +117,7 @@ print(me.motto())
 ## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamilmanijaganathan&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=tamiljagan26&theme=tokyo-night&bg_color=0d1117&color=70a5fd&line=bf91f3&point=38bdae&area=true&hide_border=true" alt="Activity Graph" width="100%"/>
 </div>
 
 ---
@@ -125,7 +125,7 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=tamilmanijaganathan&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=tamiljagan26&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -159,8 +159,8 @@ print(me.motto())
 
 | Project | Stack | Highlights |
 |:--------|:------|:-----------|
-| **[Cloud-Based 3-Tier Web Application](https://github.com/tamilmanijaganathan)** | Flask · EC2 · RDS · ALB · Docker · Jenkins | Built a production-grade 3-tier app with **Auto Scaling + ALB** for high availability; containerized with Docker; automated deployments via **Jenkins CI/CD pipeline** |
-| **[Cloud-Native Retail Microservices Platform](https://github.com/tamilmanijaganathan)** | Docker · Kubernetes · Jenkins · GitHub Actions · Terraform · CloudFormation · Prometheus · Grafana · SNS · SQS · SES | Designed microservices architecture on AWS; provisioned infra with **Terraform & CloudFormation**; end-to-end CI/CD with **Jenkins + GitHub Actions**; centralized monitoring via **Prometheus + Grafana** |
+| **[Cloud-Based 3-Tier Web Application](https://github.com/tamiljagan26)** | Flask · EC2 · RDS · ALB · Docker · Jenkins | Built a production-grade 3-tier app with **Auto Scaling + ALB** for high availability; containerized with Docker; automated deployments via **Jenkins CI/CD pipeline** |
+| **[Cloud-Native Retail Microservices Platform](https://github.com/tamiljagan26)** | Docker · Kubernetes · Jenkins · GitHub Actions · Terraform · CloudFormation · Prometheus · Grafana · SNS · SQS · SES | Designed microservices architecture on AWS; provisioned infra with **Terraform & CloudFormation**; end-to-end CI/CD with **Jenkins + GitHub Actions**; centralized monitoring via **Prometheus + Grafana** |
 
 </div>
 
@@ -218,8 +218,8 @@ print(me.motto())
     <img src="https://img.shields.io/badge/LinkedIn-Tamilmani%20J%20R-0077B5?style=flat-square&logo=linkedin&logoColor=white"/>
   </a>
   &nbsp;
-  <a href="https://github.com/tamilmanijaganathan">
-    <img src="https://img.shields.io/badge/GitHub-tamilmanijaganathan-181717?style=flat-square&logo=github&logoColor=white"/>
+  <a href="https://github.com/tamiljagan26">
+    <img src="https://img.shields.io/badge/GitHub-tamiljagan26-181717?style=flat-square&logo=github&logoColor=white"/>
   </a>
 </div>
 
